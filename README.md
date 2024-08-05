@@ -10,18 +10,16 @@
 
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.sas.com/" target="_blank" rel="noreferrer">
-  <img src="https://path-to-sas-logo.svg" alt="sas" width="40" height="40"/>
-</a>
-<!-- Power BI Logo -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+</a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tableau_Logo.svg" alt="tableau" width="40" height="40"/>
+</a>
+<a href="https://www.sas.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/SAS_Institute_Logo.png" alt="sas" width="40" height="40"/>
 </a>
 
-<!-- Tableau Logo -->
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
-</a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   </p>
