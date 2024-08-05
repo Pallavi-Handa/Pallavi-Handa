@@ -21,8 +21,7 @@
 
 <h3 align="left">🛠 Projects:</h3>
 
-- [Business 360 Dashboard](https://github.com/Naveen-S6/Business_Insights_360) - A multi-functional Power BI dashboard for analyzing global sales trends
-- [Customer Segmentation & Churn Prediction](https://github.com/Naveen-S6/Entertainers_Data_Analysis) - Python-based model for predicting customer churn in the telecom sector
+--
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
