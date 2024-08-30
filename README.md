@@ -15,7 +15,7 @@
 
 - **Data Visualization:** Power BI, Tableau, Advanced Excel
 - **Programming:** Python, SQL, SAS
-- **Database:** MySQL
+- **Database:** MySQL, Microsoft SQL Server, PostgreSQL
 - **Analytics:** Machine Learning, Statistical Analysis, Data Cleaning and Manipulation
 - **Tools:** DAX Studio, Scikit-Learn, Pandas, Matplotlib
 
